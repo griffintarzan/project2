@@ -30,10 +30,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='녹화_2025_03_10_01_05_56_616.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Ocam 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -41,11 +41,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One challenge I had was definitely with the styling! Using CSS to make my webapp look good enough and figuring out how to visually flip cards was quite challenging. I am satisfied with my end results, though!
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Seung Hyun Choi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
